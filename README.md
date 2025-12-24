@@ -50,7 +50,7 @@ python server.py
 
 Server starts at `http://localhost:8000`
 
-### Option 3; Shared Hosting on PHP (Nn installation)
+### Option 3: Shared Hosting on PHP (No installation)
 
 If you want to run the game from a hosted environment with `PHP 8.0` or above, just copy the contents of this repo to your desired hosting
 By default the `index.php` and `.htaccess` will get the job done. 
