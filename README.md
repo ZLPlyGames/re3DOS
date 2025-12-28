@@ -1,10 +1,10 @@
-# GTA Vice City — HTML5 Port (DOS Zone)
+# GTA 3 — HTML5 Port (DOS Zone)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13GFRIxTwVbixv0Vup9MSVXnB4SLmA3G7?usp=sharing)
 
 > **Fast Start:** Run the server in one click using Google Colab. Click the badge above, run the cell, and use the **"Launch Game"** button. The tunnel password will be copied automatically — just paste it on the page that opens.
 
-Web-based port of GTA: Vice City running in browser via WebAssembly.
+Web-based port of GTA 3 running in browser via WebAssembly.
 
 ## Requirements
 
